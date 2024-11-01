@@ -1,0 +1,51 @@
+{
+    "6723fd3bf47171e1717a16d2": {
+        "itemTplToClone": "619b69037b9de8162902673e",
+        "parentId": "55818a594bdc2db9688b456a",
+        "handbookParentId": "5b5f757486f774093e6cb507",
+        "overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "cqr47.bundle",
+				"rcid": ""
+			},
+				"BackgroundColor": "yellow"
+		},
+        "locales": {
+            "en": {
+                "name": "AKM/AK-74 Hera Arms CQR47 pistol grip/buttstock (Weyland-Yutani Corp)",
+                "shortName": "Blyater Worlds",
+                "description": "A custom AKM/AK-74 Hera Arms CQR47 pistol grip/buttstock with a sign of allegiance towards the Weyland-Yutani Corporation."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_pistol_grip"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 25000,
+        "handbookPriceRoubles": 20000,
+        "addtoTraders": true,
+        "traderId": "58330581ace78e27b8b10cee",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 20000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "StaticLootContainer": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 250
+    }
+}

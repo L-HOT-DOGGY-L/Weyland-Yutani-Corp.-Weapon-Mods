@@ -1,0 +1,51 @@
+{
+    "67239a16db1513e326e77aae": {
+        "itemTplToClone": "5a33e75ac4a2826c6e06d759",
+        "parentId": "55818a594bdc2db9688b456a",
+        "handbookParentId": "5b5f757486f774093e6cb507",
+        "overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "weyland15.bundle",
+				"rcid": ""
+			},
+				"BackgroundColor": "yellow"
+		},
+        "locales": {
+            "en": {
+                "name": "AR-15 Hera Arms CQR pistol grip/buttstock (Weyland-Yutani Corp)",
+                "shortName": "Better Worlds",
+                "description": "A custom AR-15 Hera Arms CQR pistol grip/buttstock with a sign of allegiance towards the Weyland-Yutani Corporation."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_pistol_grip"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 35000,
+        "handbookPriceRoubles": 27000,
+        "addtoTraders": true,
+        "traderId": "58330581ace78e27b8b10cee",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 27000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "StaticLootContainer": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 250
+    }
+}
